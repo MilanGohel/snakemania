@@ -21,7 +21,7 @@ Eat the food to grow the snake
 The game gets progressively harder as the snake grows longer
 
 ### How to Run the Project
-- Clone the repository using git clone https://github.com/<repository-url>
+- Clone the repository using git clone (https://github.com/MilanGohel/snakemania)
 - Open the index.html file in your browser to start the game
 
 ### System Requirements
